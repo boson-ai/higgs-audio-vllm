@@ -5,7 +5,7 @@ audioread==3.0.1
 cffi==1.17.1
 decorator==5.2.1
 lazy-loader==0.4
-platformdirs==4.3.6
+platformdirs==4.4.0
 pooch==1.8.2
 #pycparse==2.22
 soundfile==0.13.1
